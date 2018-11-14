@@ -12,3 +12,6 @@
 .disappear {
     visibility: hidden;
 }
+p {
+    display: inline;
+}
