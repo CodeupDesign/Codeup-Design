@@ -1,0 +1,14 @@
+.logo {
+    width: 105px;
+    height: 105px;
+}
+.center {
+    margin: auto;
+}
+.my_container {
+    position: absolute;
+    top: 5em;
+}
+.disappear {
+    visibility: hidden;
+}
