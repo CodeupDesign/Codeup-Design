@@ -18,8 +18,7 @@
     background-color: lightgrey;
 }
 .left-images {
-    height: 350px;
-    width: 600px;
+    border: 10px solid #E6E6E6;
 }
 .circle {
     border-radius: 50%;
@@ -45,14 +44,15 @@
     text-align: center;
     color: white;
 }
-.circle>p {
-    margin-top: 42px;
+.textmid {
+    line-height: 7;
 }
 .card {
     width: 18rem;
 }
 body {
-    background-color: lightgrey;
+    background-color: #F0F0F0;
+    width: 100%;
 }
 * {
     justify-content: center;
@@ -71,4 +71,11 @@ h1 {
     height: 3rem;
     position: absolute;
     top: 25px;
+}
+.card-img-top {
+    border: 5px solid #E6E6E6;
+}
+.card {
+    background-color: #F0F0F0;
+    border: none;
 }
