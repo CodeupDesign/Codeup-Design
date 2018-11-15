@@ -4,6 +4,8 @@
 }
 .center {
     margin: auto;
+    justify-content: center;
+    text-align: center;
 }
 .my_container {
     position: absolute;
@@ -11,4 +13,35 @@
 }
 .disappear {
     visibility: hidden;
+}
+.grey {
+    background-color: lightgrey;
+}
+.left-images {
+    height: 300px;
+    width: 400px;
+}
+.circle {
+    border-radius: 50%;
+    width: 8em;
+    height: 8em;
+    border: white solid .5em;
+    display: inline-block;
+    margin: .5em .5em;
+}
+.circle-red {
+    background-color: rgb(220, 63, 45);
+}
+.circle-yellow {
+    background-color: rgb(224, 141, 20);
+}
+.circle-green {
+    background-color: rgb(107, 163, 90);
+}
+.circle-blue {
+    background-color: rgb(21, 157, 153);
+}
+.circle-row {
+    text-align: center;
+    color: white;
 }
