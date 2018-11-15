@@ -53,14 +53,15 @@
 body {
     background-color: #F0F0F0;
     width: 100%;
+    box-sizing: border-box;
 }
 * {
     justify-content: center;
-    text-align: center;
     margin: auto;
 }
 h2, h3, h5 {
     font-family: 'Anton', sans-serif;
+    text-align: center;
 }
 h1 {
     font-family: 'Abel', sans-serif;
@@ -74,6 +75,8 @@ h1 {
 }
 .card-img-top {
     border: 5px solid #E6E6E6;
+    height: 220px;
+    width: 320px;
 }
 .card {
     background-color: #F0F0F0;
@@ -86,4 +89,13 @@ h1 {
 .list-unstyled {
     width: 30%;
     margin:0;
+}
+.float-right {
+    float: right;
+}
+.width33 {
+    width: 33%;
+}
+.boldright {
+    display: inline;
 }
