@@ -14,7 +14,6 @@
 .disappear {
     visibility: hidden;
 }
-<<<<<<< HEAD
 .grey {
     background-color: lightgrey;
 }
@@ -45,8 +44,7 @@
 .circle-row {
     text-align: center;
     color: white;
-=======
+}
 p {
     display: inline;
->>>>>>> ee5f855e5bb8fbd15675fbd6593ca47bbccb407b
 }
