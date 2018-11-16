@@ -113,3 +113,12 @@ p {
     width: 53%;
     margin-left: 1em;
 }
+.feature {
+    display: inline;
+    font-size: 25%;
+}
+.badge-width {
+    width: 7em;
+    margin: 0;
+    float: right;
+}
