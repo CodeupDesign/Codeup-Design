@@ -59,15 +59,18 @@ body {
     justify-content: center;
     margin: auto;
 }
-h2, h3, h5 {
+h2, h3 {
     font-family: 'Anton', sans-serif;
     text-align: center;
+}
+h5 {
+    font-family: 'Anton', sans-serif;
 }
 h1 {
     font-family: 'Abel', sans-serif;
 }
 .abel {
-    font-family: Abel;
+    font-family: 'Abel', sans-serif;
 }
 .white-nav {
     background-color: white;
